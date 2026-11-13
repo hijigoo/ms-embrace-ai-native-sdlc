@@ -32,8 +32,8 @@ GitHub Copilot으로 우리 팀의 개발 베스트 프랙티스를 하네스로
 
 | 세션 | 위치 | 내용 |
 |------|------|------|
-| 01 | [`slides-html/ai-native-harness-slides.html`](slides-html/ai-native-harness-slides.html) | 모델·도구·하네스, 에이전트 루프와 Context, 확장(Tool · MCP · Skill · Hook · Subagent), 토큰 최적화, HydraFusion |
-| 02 | [`slides-html/harness-sdlc-slides-native.html`](slides-html/harness-sdlc-slides-native.html) | Spec Kit(SDD), Superpowers, HVE Core |
+| 01 | [`slides-html/ai-native-harness-slides.html`](https://hijigoo.github.io/ms-embrace-ai-native-sdlc/slides-html/ai-native-harness-slides.html) | 모델·도구·하네스, 에이전트 루프와 Context, 확장(Tool · MCP · Skill · Hook · Subagent), 토큰 최적화, HydraFusion |
+| 02 | [`slides-html/harness-sdlc-slides-native.html`](https://hijigoo.github.io/ms-embrace-ai-native-sdlc/slides-html/harness-sdlc-slides-native.html) | Spec Kit(SDD), Superpowers, HVE Core |
 | 03 | [daeungo1/msft-ghcp-dev-workshop](https://github.com/daeungo1/msft-ghcp-dev-workshop) | Hands-on Lab 실습 자료 |
 
 > `slides-pptx/`는 `.gitignore`에 포함되어 있습니다.
