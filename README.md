@@ -36,4 +36,18 @@ GitHub Copilot으로 우리 팀의 개발 베스트 프랙티스를 하네스로
 | 02 | [`slides-html/harness-sdlc-slides-native.html`](https://hijigoo.github.io/ms-embrace-ai-native-sdlc/slides-html/harness-sdlc-slides-native.html) | Spec Kit(SDD), Superpowers, HVE Core |
 | 03 | [daeungo1/msft-ghcp-dev-workshop](https://github.com/daeungo1/msft-ghcp-dev-workshop) | Hands-on Lab 실습 자료 |
 
+## 슬라이드 샘플
+
+**01 · AI 개발 에이전트 아키텍처 딥다이브**
+
+| | | |
+|---|---|---|
+| ![표지](images/harness-01.png) | ![실행 구조](images/harness-09.png) | ![에이전트 흐름](images/harness-14.png) |
+
+**02 · AI Native SDLC의 설계와 실행**
+
+| | | |
+|---|---|---|
+| ![표지](images/sdlc-01.png) | ![조정 방식](images/sdlc-11.png) | ![Converge](images/sdlc-31.png) |
+
 > `slides-pptx/`는 `.gitignore`에 포함되어 있습니다.
